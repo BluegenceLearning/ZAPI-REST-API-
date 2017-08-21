@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="JARS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/Demoproject"/>
+	<classpathentry kind="lib" path="JARS/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="JARS/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="JARS/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="JARS/json-20170516.jar"/>
+	<classpathentry kind="lib" path="JARS/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/axv680/Desktop/My Docs/Selenium Automation/JAR Files/java-json.jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/axv680/Desktop/My Docs/Selenium Automation/zapi-cloud-master/zapi-cloud-master/generator/java/compiled/jwt-generator.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
