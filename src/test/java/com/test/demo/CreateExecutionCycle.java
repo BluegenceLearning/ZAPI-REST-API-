@@ -68,7 +68,7 @@ public class CreateExecutionCycle {
 		CreateExecutionCycle cc = new CreateExecutionCycle();
 		
 		String cycleID = cc.createCycle(createCycleUri, client, accessKey, cycleJSON);
-		System.out.println("Cycle Created with Cycle Id :" + cycleID);
+		System.out.println("New Cycle Created with Cycle Id :" + cycleID);
 		
 		
 		/**
